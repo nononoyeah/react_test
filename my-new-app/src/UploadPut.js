@@ -53,15 +53,14 @@ class UploadPut extends React.Component {
     const getUrlByfileNameRes = {
       "url": {
         "hostname": "scfp-test.obs.cn-south-1.myhuaweicloud.com",
-        "href": "https://scfp-test.obs.cn-south-1.myhuaweicloud.com:443/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/2019/6/29/1561787909558sougo5.jpeg?AccessKeyId=J0OSSINRQBZFVZGHHY0Q&Expires=1561791509&Signature=a4WcD3IhzF86UnpawpwGFc44Xpg%3D",
-        "path": "/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/2019/6/29/1561787909558sougo5.jpeg?AccessKeyId=J0OSSINRQBZFVZGHHY0Q&Expires=1561791509&Signature=a4WcD3IhzF86UnpawpwGFc44Xpg%3D",
-        "pathname": "/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/2019/6/29/1561787909558sougo5.jpeg",
+        "href": "https://scfp-test.obs.cn-south-1.myhuaweicloud.com:443/haha.txt?AccessKeyId=J0OSSINRQBZFVZGHHY0Q&Expires=1562383981&Signature=pahxvQKi5dV3Ni7GR%2BvQsKz1/Sg%3D",
+        "path": "/haha.txt?AccessKeyId=J0OSSINRQBZFVZGHHY0Q&Expires=1562383981&Signature=pahxvQKi5dV3Ni7GR%2BvQsKz1/Sg%3D",
+        "pathname": "/haha.txt",
         "port": "443",
         "protocol": "https:",
-        "query": "AccessKeyId=J0OSSINRQBZFVZGHHY0Q&Expires=1561791509&Signature=a4WcD3IhzF86UnpawpwGFc44Xpg%3D"
+        "query": "AccessKeyId=J0OSSINRQBZFVZGHHY0Q&Expires=1562383981&Signature=pahxvQKi5dV3Ni7GR%2BvQsKz1/Sg%3D"
       },
       "header": {
-          "Content-Type": "text/plain",
           "Host": "scfp-test.obs.cn-south-1.myhuaweicloud.com"
       }
     };
